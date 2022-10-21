@@ -106,7 +106,7 @@ main{
 .modulo{
   display: grid;
   justify-items: center;
-  border-bottom: solid 1px #ffffff;
+  border-bottom: dashed 1px #42c0f5;
 }
 
 .modulo p{
